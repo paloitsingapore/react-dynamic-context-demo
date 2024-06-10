@@ -1,0 +1,86 @@
+{
+  "screens": [
+    {
+      "name": "screen1",
+      "screenId": "screen1",
+      "layout": {
+        "type": "grid",
+        "columns": 12
+      },
+      "components": [
+        {
+          "id": "counter1",
+          "type": "counter",
+          "contextKey": "alpha",
+          "data": {
+            "title": "Counter 1",
+            "counter": 14
+          }
+        },
+        {
+          "id": "counter2",
+          "type": "counter",
+          "contextKey": "alpha",
+          "data": {
+            "title": "Counter 2",
+            "counter": 15
+          }
+        },
+        {
+          "id": "counter3",
+          "type": "counter",
+          "contextKey": "counter3",
+          "data": {
+            "title": "Counter 3",
+            "counter": 17
+          }
+        },
+        {
+          "id": "counter4",
+          "type": "counter",
+          "contextKey": "counter4",
+          "data": {
+            "title": "Counter 4",
+            "counter": 20
+          }
+        },
+        {
+          "id": "counter5",
+          "type": "counter",
+          "contextKey": "counter5",
+          "data": {
+            "title": "Counter 5",
+            "counter": 14
+          }
+        },
+        {
+          "id": "counter6",
+          "type": "counter",
+          "contextKey": "bravo",
+          "data": {
+            "title": "Counter 6",
+            "counter": 12
+          }
+        },
+        {
+          "id": "counter7",
+          "type": "counter",
+          "contextKey": "bravo",
+          "data": {
+            "title": "Counter 7",
+            "counter": 100
+          }
+        },
+        {
+          "id": "counter8",
+          "type": "counter",
+          "contextKey": "alpha",
+          "data": {
+            "title": "Counter 8",
+            "counter": 16
+          }
+        }
+      ]
+    }
+  ]
+}
